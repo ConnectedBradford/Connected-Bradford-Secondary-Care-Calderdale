@@ -1,4 +1,4 @@
-# FDM_template
-FDM template repo
+# CB_FDM_Calderdale_Vn
+FDM repo
 
-## Change the title of this README to match the name of the dataset and provide basic details about the data source and FDM contents.
+## Comtains the code and Data dictionary for the Calderdale FDM
