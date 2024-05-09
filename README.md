@@ -4,18 +4,19 @@
 
 This is the Connected Bradford SUS_Calderdale FDM  GitHub page where you can find a summary of the dataset(s), data dictionaries and helpful code.
 
-# CB_FDM_SUS_Calderdale
+# CB_FDM_Calderdale
 
-Contains the scripts and data dictionary for the SUS_Calderdale . This is the Hospital data gathered at Calderdale hospital. 
-It contains approximately 400,000 patients with the full clinical record. The dataset has been fully anonymised, but can link to other FDM's.
+Contains the scripts and data dictionary for the Calderdale FDM . This is the Hospital data gathered at Calderdale hospital. 
+It contains approximately 400,000 patients with the hospital clinical record. The dataset has been fully anonymised, but can link to other FDM's.
 
 There is just one FDM for Calderdale. 
 
-CB_FDM_SUS_Calderdale_V1 - build date 2024/01/24  - data up to 2023/11/16
+CB_FDM_Calderdale - build date 2024-01-24   - data up to 2023-11-16
 
 
-# SUS_Calderdale 
-The Calderdale FDM is made up of 9 source tables (summarised below and data dictionaries linked) from routinely collected data from Calderdale Hospital for 438564 individuals and their routinely collcted clinical data. 
+
+# Calderdale 
+The Calderdale FDM is made up of 9 source tables (summarised below and data dictionaries linked) from routinely collected data from Calderdale Hospital for 438564 individuals and their routinely collected clinical data. 
 
 The source tables are largely populated by fields with the tbl_ where there is a person and a start and end date, and cb_ where there is no identifiable person, these are typically lookups.
 
